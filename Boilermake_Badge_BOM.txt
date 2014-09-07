@@ -1,0 +1,10 @@
+$4.21 - ATMEGA32U4
+$2.00 - FT231XS
+$0.69 - CY8C20142
+$5.00 - PCB cost
+$2.00 - passives
+$0.26 - micro usb type B
+$0.31 - CR2032 batter (2 per person, cost of 1 = $0.16)
+$0.24 - CR2032 holster
+
+$14.71 - totarr
