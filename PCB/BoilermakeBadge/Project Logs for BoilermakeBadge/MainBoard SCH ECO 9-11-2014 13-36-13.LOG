@@ -1,0 +1,51 @@
+Replace Part Battery PowerPins in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with PowerPins from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part C1*** Cap Pol1 in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Cap Pol1 from Miscellaneous Devices.IntLib
+Replace Part C2*** Cap Pol1 in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Cap Pol1 from Miscellaneous Devices.IntLib
+Replace Part C3*** Cap Pol1 in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Cap Pol1 from Miscellaneous Devices.IntLib
+Replace Part C4*** Cap Pol1 in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Cap Pol1 from Miscellaneous Devices.IntLib
+Replace Part C5*** Cap Pol1 in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Cap Pol1 from Miscellaneous Devices.IntLib
+Replace Part D? BZT55C5V6 in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with BZT55C5V6 from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part FET1 Dual N & P-Channel MOSFET in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Dual N & P-Channel MOSFET from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED1 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED2 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED3 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED4 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED5 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED6 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED7 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED8 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED9 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED10 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED11 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED12 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED13 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED14 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED15 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part LED16 LED_Green_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with LED_Green_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part P1 Header 15 in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Header 15 from Miscellaneous Connectors.IntLib
+Replace Part P2 Header 16 in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Header 16 from Miscellaneous Connectors.IntLib
+Replace Part P3 Header 3X2A in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Header 3X2A from Miscellaneous Connectors.IntLib
+Replace Part PB1 TactileButton in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with TactileButton from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R1 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R2 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R3 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R4 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R5 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R6 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R7 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R8 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R9 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R10 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R11 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R12 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R13 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R14 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R15 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R16 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R17 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R18 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part R19 Resistor_1206Package in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with Resistor_1206Package from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part SR1 8BitShiftRegister in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with 8BitShiftRegister from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part SR2 8BitShiftRegister in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with 8BitShiftRegister from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part U? nRF24L01+ in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with nRF24L01+ from BoilermakeBadge_ComponentsLibrary.IntLib
+Replace Part USBMicroB USBMicroB in C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\BoilermakeBadge\MainBoard.SchDoc with USBMicroB from BoilermakeBadge_ComponentsLibrary.IntLib

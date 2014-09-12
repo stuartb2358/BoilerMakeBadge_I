@@ -18,7 +18,7 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=Default Configuration
+DefaultConfiguration=Default - All Constraints
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
@@ -36,100 +36,10 @@ ManagedProjectGUID=
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
-[Document1]
-DocumentPath=MainBoard.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=1
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UJSLNJHM
-
-[Document2]
-DocumentPath=..\eagle imports\Imported nrf24l01-breakout.PrjPcb\nrf24l01-breakout.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document3]
-DocumentPath=..\BoilermakeBadge_ComponentsLibrary\NRF24L01\NRF24L01.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LQEFSMEC
-
-[Document4]
-DocumentPath=..\BoilermakeBadge_ComponentsLibrary\ECS Crystal Oscillator.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for BoilermakeBadge\MainBoard.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for BoilermakeBadge\MainBoard.CSV
-DItemRevisionGUID=
-
-[SearchPath1]
-Path=..\BoilermakeBadge_ComponentsLibrary\nRF24L01-PCB\*.*
-IncludeSubFolders=1
-
-[Configuration1]
-Name=Default Configuration
-ParameterCount=0
-ConstraintFileCount=0
-ReleaseItemId=
-CurrentRevision=
-Variant=[No Variations]
-GenerateBOM=1
-OutputJobsCount=0
-
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -165,7 +75,7 @@ OutputDefault6=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -186,7 +96,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembler Source Print
 OutputName1=Assembler Source Prints
@@ -294,7 +204,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -316,7 +226,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -386,16 +296,6 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration1_Name1=Filter
-Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration1_Name2=General
-Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|IncludeVaultData=False|ShowExportOptions=True|TemplateFilename=Board Stack Report.XLT|BatchMode=5|FormWidth=950|FormHeight=653|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration1_Name3=GroupOrder
-Configuration1_Item3=Comment=True|Footprint=True
-Configuration1_Name4=SortOrder
-Configuration1_Item4=Designator=Up|Comment=Up|Footprint=Up
-Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -416,8 +316,6 @@ OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType6=SinglePinNetReporter
 OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
@@ -427,7 +325,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -607,7 +505,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -641,7 +539,7 @@ OutputDefault5=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -942,90 +840,6 @@ NetClassManualEnabled=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Atmel Microcontroller 8-Bit megaAVR.IntLib
-ComponentDesignItemID0=ATmega32U4-AU
-ComponentSymbolReference0=ATmega32U4-AU
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=BoilermakeBadge_ComponentsLibrary.IntLib
-ComponentDesignItemID1=8BitShiftRegister
-ComponentSymbolReference1=8BitShiftRegister
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=BoilermakeBadge_ComponentsLibrary.IntLib
-ComponentDesignItemID2=BZT55C5V6
-ComponentSymbolReference2=BZT55C5V6
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=BoilermakeBadge_ComponentsLibrary.IntLib
-ComponentDesignItemID3=Dual N & P-Channel MOSFET
-ComponentSymbolReference3=Dual N & P-Channel MOSFET
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=BoilermakeBadge_ComponentsLibrary.IntLib
-ComponentDesignItemID4=LED_Green_1206Package
-ComponentSymbolReference4=LED_Green_1206Package
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=BoilermakeBadge_ComponentsLibrary.IntLib
-ComponentDesignItemID5=nRF24L01+
-ComponentSymbolReference5=nRF24L01+
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=BoilermakeBadge_ComponentsLibrary.IntLib
-ComponentDesignItemID6=PowerPins
-ComponentSymbolReference6=PowerPins
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=BoilermakeBadge_ComponentsLibrary.IntLib
-ComponentDesignItemID7=Resistor_1206Package
-ComponentSymbolReference7=Resistor_1206Package
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=BoilermakeBadge_ComponentsLibrary.IntLib
-ComponentDesignItemID8=TactileButton
-ComponentSymbolReference8=TactileButton
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=BoilermakeBadge_ComponentsLibrary.IntLib
-ComponentDesignItemID9=USBMicroB
-ComponentSymbolReference9=USBMicroB
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=Miscellaneous Connectors.IntLib
-ComponentDesignItemID10=Header 15
-ComponentSymbolReference10=Header 15
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=Miscellaneous Connectors.IntLib
-ComponentDesignItemID11=Header 16
-ComponentSymbolReference11=Header 16
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=Miscellaneous Connectors.IntLib
-ComponentDesignItemID12=Header 3X2A
-ComponentSymbolReference12=Header 3X2A
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=Miscellaneous Devices.IntLib
-ComponentDesignItemID13=Cap Pol1
-ComponentSymbolReference13=Cap Pol1
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1039,117 +853,6 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
-ParameterUpdate0=1
-ParameterName1=Component Kind
-ParameterUpdate1=1
-ParameterName2=ComponentLink1Description
-ParameterUpdate2=1
-ParameterName3=ComponentLink1URL
-ParameterUpdate3=1
-ParameterName4=ComponentLink2Description
-ParameterUpdate4=1
-ParameterName5=ComponentLink2URL
-ParameterUpdate5=1
-ParameterName6=ComponentLink3Description
-ParameterUpdate6=1
-ParameterName7=ComponentLink3URL
-ParameterUpdate7=1
-ParameterName8=ComponentLink4Description
-ParameterUpdate8=1
-ParameterName9=ComponentLink4URL
-ParameterUpdate9=1
-ParameterName10=DatasheetVersion
-ParameterUpdate10=1
-ParameterName11=Description
-ParameterUpdate11=1
-ParameterName12=LatestRevisionDate
-ParameterUpdate12=1
-ParameterName13=LatestRevisionNote
-ParameterUpdate13=1
-ParameterName14=Library Reference
-ParameterUpdate14=1
-ParameterName15=PackageDescription
-ParameterUpdate15=1
-ParameterName16=PackageReference
-ParameterUpdate16=1
-ParameterName17=PackageVersion
-ParameterUpdate17=1
-ParameterName18=Published
-ParameterUpdate18=1
-ParameterName19=Publisher
-ParameterUpdate19=1
-ParameterName20=Supplier 1
-ParameterUpdate20=1
-ParameterName21=Supplier 2
-ParameterUpdate21=1
-ParameterName22=Supplier 3
-ParameterUpdate22=1
-ParameterName23=Supplier Part Number 1
-ParameterUpdate23=1
-ParameterName24=Supplier Part Number 2
-ParameterUpdate24=1
-ParameterName25=Supplier Part Number 3
-ParameterUpdate25=1
-ParameterName26=Value
-ParameterUpdate26=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=1206Package_PCB
-ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=20-VFQFN
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=44ML_L
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=44ML_M
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=44ML_N
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=8BitShiftRegister_PCB
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=HDR1X15
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=HDR1X16
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=HDR2X3_CEN
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=PowerPins_PCB
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=RB7.6-15
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=SOD-80
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=TactileSwitchPCB
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=USBMicroB_PCB
-ModelUpdate13=1
-ModelTypeGroup1=SI
-ModelTypeUpdate1=1
-ModelType14=SI
-ModelName14=Cap Pol
-ModelUpdate14=1
-ModelType15=SI
-ModelName15=Connector
-ModelUpdate15=1
-ModelTypeGroup2=SIM
-ModelTypeUpdate2=1
-ModelType16=SIM
-ModelName16=CAP
-ModelUpdate16=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1163,7 +866,4 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-
-[SmartPDF]
-PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 

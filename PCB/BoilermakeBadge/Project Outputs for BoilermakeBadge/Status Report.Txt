@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [BoilermakeBadge.PrjPcb]
+   Generated File[MainBoard.BOM]
+   Generated File[MainBoard.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 20:21:26 On 9/11/2014
