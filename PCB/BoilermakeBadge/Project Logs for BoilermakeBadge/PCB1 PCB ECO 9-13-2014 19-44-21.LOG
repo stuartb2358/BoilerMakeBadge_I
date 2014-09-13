@@ -1,0 +1,2 @@
+Change Component Comment : Designator=U6 Old Comment=LM7803 New Comment=LD1117DT33TR
+Added Pin To Net: NetName=3V3 Pin=U6-2
