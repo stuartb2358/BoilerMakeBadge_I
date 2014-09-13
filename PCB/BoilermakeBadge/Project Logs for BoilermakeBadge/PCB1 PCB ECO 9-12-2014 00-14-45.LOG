@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Added Member To Class: ClassName=MainBoard Member=Component X2 HC-49S

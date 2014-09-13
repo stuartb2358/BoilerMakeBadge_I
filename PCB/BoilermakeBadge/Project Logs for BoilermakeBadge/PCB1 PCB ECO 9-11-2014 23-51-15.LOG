@@ -1,0 +1,4 @@
+Added Component: Designator=X1(HC-49S)
+Added Component: Designator=X2(HC-49S)
+Added Member To Class: ClassName=MainBoard Member=Component X1 16MHz
+Added Member To Class: ClassName=MainBoard Member=Component X2 16MHz

@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=MainBoard Member=X1
+Removed Member From Class: ClassName=MainBoard Member=X2
+Added Component: Designator=X?(HC-49S)
+Added Component: Designator=X?(HC-49S)
+Added Pin To Net: NetName=NetC12_2 Pin=X?-1
+Added Pin To Net: NetName=NetC15_1 Pin=X?-1
+Added Pin To Net: NetName=NetC13_2 Pin=X?-2
+Added Pin To Net: NetName=NetC14_1 Pin=X?-2
+Added Member To Class: ClassName=MainBoard Member=Component X? HC-49S

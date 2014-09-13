@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=VCC Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=USB Pin=C4-1
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Cap Pol1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap Pol1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Cap Pol1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap Pol1 New DesignItemId=Electrolytic Capacitor
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap Pol1 New DesignItemId=Electrolytic Capacitor
+Change Component Footprint: Designator=C1 Old Footprint=RB7.6-15 New Footprint=C1206
+Change Component Footprint: Designator=C2 Old Footprint=RB7.6-15 New Footprint=C1206
+Change Component Footprint: Designator=C7 Old Footprint=RB7.6-15 New Footprint=C1206
+Change Component Footprint: Designator=C3 Old Footprint=RB7.6-15 New Footprint=sheityCapPackage
+Change Component Footprint: Designator=C4 Old Footprint=RB7.6-15 New Footprint=sheityCapPackage
+Change Component Comment : Designator=C1 Old Comment=Cap Pol1 New Comment=Cap Semi
+Change Component Comment : Designator=C2 Old Comment=Cap Pol1 New Comment=Cap Semi
+Change Component Comment : Designator=C7 Old Comment=Cap Pol1 New Comment=Cap Semi
+Change Component Comment : Designator=C3 Old Comment=Cap Pol1 New Comment=Electrolytic Capacitor
+Change Component Comment : Designator=C4 Old Comment=Cap Pol1 New Comment=Electrolytic Capacitor
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=USB Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C4-1

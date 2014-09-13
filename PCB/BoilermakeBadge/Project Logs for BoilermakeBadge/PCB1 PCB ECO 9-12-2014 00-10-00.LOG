@@ -1,0 +1,4 @@
+Change Component Comment : Designator=X1 Old Comment=16MHz New Comment=
+Change Component Comment : Designator=X2 Old Comment=16MHz New Comment=HC-49S
+Change Component Library : Designator=X1 Old Library=BMB Library.SchLib New Library=BoilermakeBadge_ComponentsLibrary.IntLib
+Change Component Library : Designator=X2 Old Library=BMB Library.SchLib New Library=BoilermakeBadge_ComponentsLibrary.IntLib
