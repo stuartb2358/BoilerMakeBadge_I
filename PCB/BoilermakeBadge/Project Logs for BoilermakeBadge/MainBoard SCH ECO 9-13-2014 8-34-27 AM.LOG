@@ -1,0 +1,16 @@
+Remove Pin=U1-1 From Net=PE6
+Remove Pin=U1-3 From Net=D-
+Remove Pin=U1-4 From Net=D+
+Remove Pin=U1-13 From Net=RESET
+Remove Pin=U1-33 From Net=HWB
+Remove Pin=U1-42 From Net=AREF
+Change Component Footprint: Designator=C1 Old Footprint=C1206 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C2 Old Footprint=C1206 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C7 Old Footprint=C1206 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C3 Old Footprint=sheityCapPackage New Footprint=RB7.6-15
+Change Component Footprint: Designator=C4 Old Footprint=sheityCapPackage New Footprint=RB7.6-15
+Change Component Comment: Designator=C1 Old Comment=Cap Semi New Comment=Cap Pol1
+Change Component Comment: Designator=C2 Old Comment=Cap Semi New Comment=Cap Pol1
+Change Component Comment: Designator=C7 Old Comment=Cap Semi New Comment=Cap Pol1
+Change Component Comment: Designator=C3 Old Comment=Electrolytic Capacitor New Comment=Cap Pol1
+Change Component Comment: Designator=C4 Old Comment=Electrolytic Capacitor New Comment=Cap Pol1

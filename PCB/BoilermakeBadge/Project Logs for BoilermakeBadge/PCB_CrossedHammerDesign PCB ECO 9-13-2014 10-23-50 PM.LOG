@@ -1,0 +1,244 @@
+Added Component: Designator=Battery1(PowerPins_PCB)
+Added Component: Designator=C3(sheityCapPackage)
+Added Component: Designator=C4(sheityCapPackage)
+Added Component: Designator=LED1(1206Package_PCB)
+Added Component: Designator=LED2(1206Package_PCB)
+Added Component: Designator=LED3(1206Package_PCB)
+Added Component: Designator=LED4(1206Package_PCB)
+Added Component: Designator=LED5(1206Package_PCB)
+Added Component: Designator=LED6(1206Package_PCB)
+Added Component: Designator=LED7(1206Package_PCB)
+Added Component: Designator=LED8(1206Package_PCB)
+Added Component: Designator=LED9(1206Package_PCB)
+Added Component: Designator=LED10(1206Package_PCB)
+Added Component: Designator=LED11(1206Package_PCB)
+Added Component: Designator=LED12(1206Package_PCB)
+Added Component: Designator=LED13(1206Package_PCB)
+Added Component: Designator=LED14(1206Package_PCB)
+Added Component: Designator=LED15(1206Package_PCB)
+Added Component: Designator=LED16(1206Package_PCB)
+Added Component: Designator=R1(1206Package_PCB)
+Added Component: Designator=R2(1206Package_PCB)
+Added Component: Designator=R3(1206Package_PCB)
+Added Component: Designator=R4(1206Package_PCB)
+Added Component: Designator=R5(1206Package_PCB)
+Added Component: Designator=R6(1206Package_PCB)
+Added Component: Designator=R7(1206Package_PCB)
+Added Component: Designator=R8(1206Package_PCB)
+Added Component: Designator=R9(1206Package_PCB)
+Added Component: Designator=R10(1206Package_PCB)
+Added Component: Designator=R11(1206Package_PCB)
+Added Component: Designator=R12(1206Package_PCB)
+Added Component: Designator=R13(1206Package_PCB)
+Added Component: Designator=R14(1206Package_PCB)
+Added Component: Designator=R15(1206Package_PCB)
+Added Component: Designator=R16(1206Package_PCB)
+Added Component: Designator=R17(1206Package_PCB)
+Added Component: Designator=R18(1206Package_PCB)
+Added Component: Designator=R19(1206Package_PCB)
+Added Component: Designator=R20(1206Package_PCB)
+Added Component: Designator=SW1(TactileSwitchPCB)
+Added Component: Designator=U2(20-VFQFN)
+Added Component: Designator=U3(8BitShiftRegister_PCB)
+Added Component: Designator=U4(8BitShiftRegister_PCB)
+Added Component: Designator=U5(8BitShiftRegister_PCB)
+Added Component: Designator=U6(DPAK)
+Added Component: Designator=USBMicroB1(USBMicroB_PCB)
+Added Component: Designator=X1(HC-49S)
+Added Component: Designator=X2(HC-49S)
+Added Pin To Net: NetName=BATT Pin=Battery1-1
+Added Pin To Net: NetName=GND Pin=Battery1-2
+Added Pin To Net: NetName=USB Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=GND Pin=LED4-2
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=GND Pin=LED5-2
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=GND Pin=LED6-2
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=GND Pin=LED7-2
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=GND Pin=LED8-2
+Added Pin To Net: NetName=NetLED9_1 Pin=LED9-1
+Added Pin To Net: NetName=GND Pin=LED9-2
+Added Pin To Net: NetName=NetLED10_1 Pin=LED10-1
+Added Pin To Net: NetName=GND Pin=LED10-2
+Added Pin To Net: NetName=NetLED11_1 Pin=LED11-1
+Added Pin To Net: NetName=GND Pin=LED11-2
+Added Pin To Net: NetName=NetLED12_1 Pin=LED12-1
+Added Pin To Net: NetName=GND Pin=LED12-2
+Added Pin To Net: NetName=NetLED13_1 Pin=LED13-1
+Added Pin To Net: NetName=GND Pin=LED13-2
+Added Pin To Net: NetName=NetLED14_1 Pin=LED14-1
+Added Pin To Net: NetName=GND Pin=LED14-2
+Added Pin To Net: NetName=NetLED15_1 Pin=LED15-1
+Added Pin To Net: NetName=GND Pin=LED15-2
+Added Pin To Net: NetName=NetLED16_1 Pin=LED16-1
+Added Pin To Net: NetName=GND Pin=LED16-2
+Added Pin To Net: NetName=Q0 Pin=R1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=USB Pin=R2-2
+Added Pin To Net: NetName=Q1 Pin=R3-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R3-2
+Added Pin To Net: NetName=D- Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=Q2 Pin=R5-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R5-2
+Added Pin To Net: NetName=D+ Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=Q3 Pin=R7-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R7-2
+Added Pin To Net: NetName=Q4 Pin=R8-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R8-2
+Added Pin To Net: NetName=Q5 Pin=R9-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R9-2
+Added Pin To Net: NetName=Q6 Pin=R10-1
+Added Pin To Net: NetName=NetLED7_1 Pin=R10-2
+Added Pin To Net: NetName=Q7 Pin=R11-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R11-2
+Added Pin To Net: NetName=Q8 Pin=R12-1
+Added Pin To Net: NetName=NetLED9_1 Pin=R12-2
+Added Pin To Net: NetName=Q9 Pin=R13-1
+Added Pin To Net: NetName=NetLED10_1 Pin=R13-2
+Added Pin To Net: NetName=Q10 Pin=R14-1
+Added Pin To Net: NetName=NetLED11_1 Pin=R14-2
+Added Pin To Net: NetName=Q11 Pin=R15-1
+Added Pin To Net: NetName=NetLED12_1 Pin=R15-2
+Added Pin To Net: NetName=Q12 Pin=R16-1
+Added Pin To Net: NetName=NetLED13_1 Pin=R16-2
+Added Pin To Net: NetName=Q13 Pin=R17-1
+Added Pin To Net: NetName=NetLED14_1 Pin=R17-2
+Added Pin To Net: NetName=Q14 Pin=R18-1
+Added Pin To Net: NetName=NetLED15_1 Pin=R18-2
+Added Pin To Net: NetName=Q15 Pin=R19-1
+Added Pin To Net: NetName=NetLED16_1 Pin=R19-2
+Added Pin To Net: NetName=NetC10_1 Pin=R20-1
+Added Pin To Net: NetName=NetE1_1 Pin=R20-2
+Added Pin To Net: NetName=RESET Pin=SW1-1
+Added Pin To Net: NetName=RESET Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=PD5 Pin=U2-1
+Added Pin To Net: NetName=SS Pin=U2-2
+Added Pin To Net: NetName=SCK Pin=U2-3
+Added Pin To Net: NetName=MOSI Pin=U2-4
+Added Pin To Net: NetName=MISO Pin=U2-5
+Added Pin To Net: NetName=PB7 Pin=U2-6
+Added Pin To Net: NetName=3V3 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetC12_2 Pin=U2-9
+Added Pin To Net: NetName=NetC13_2 Pin=U2-10
+Added Pin To Net: NetName=VDD_PA Pin=U2-11
+Added Pin To Net: NetName=ANT1 Pin=U2-12
+Added Pin To Net: NetName=ANT2 Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=3V3 Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=3V3 Pin=U2-18
+Added Pin To Net: NetName=3V3 Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=MOSI Pin=U3-1
+Added Pin To Net: NetName=MOSI Pin=U3-2
+Added Pin To Net: NetName=Q0 Pin=U3-3
+Added Pin To Net: NetName=Q1 Pin=U3-4
+Added Pin To Net: NetName=Q2 Pin=U3-5
+Added Pin To Net: NetName=Q3 Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=SCK Pin=U3-8
+Added Pin To Net: NetName=PD0 Pin=U3-9
+Added Pin To Net: NetName=Q4 Pin=U3-10
+Added Pin To Net: NetName=Q5 Pin=U3-11
+Added Pin To Net: NetName=Q6 Pin=U3-12
+Added Pin To Net: NetName=Q7 Pin=U3-13
+Added Pin To Net: NetName=VCC Pin=U3-14
+Added Pin To Net: NetName=Q7 Pin=U4-1
+Added Pin To Net: NetName=Q7 Pin=U4-2
+Added Pin To Net: NetName=Q8 Pin=U4-3
+Added Pin To Net: NetName=Q9 Pin=U4-4
+Added Pin To Net: NetName=Q10 Pin=U4-5
+Added Pin To Net: NetName=Q11 Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=SCK Pin=U4-8
+Added Pin To Net: NetName=PD0 Pin=U4-9
+Added Pin To Net: NetName=Q12 Pin=U4-10
+Added Pin To Net: NetName=Q13 Pin=U4-11
+Added Pin To Net: NetName=Q14 Pin=U4-12
+Added Pin To Net: NetName=Q15 Pin=U4-13
+Added Pin To Net: NetName=VCC Pin=U4-14
+Added Pin To Net: NetName=VCC Pin=U5-1
+Added Pin To Net: NetName=USB Pin=U5-2
+Added Pin To Net: NetName=BATT Pin=U5-3
+Added Pin To Net: NetName=USB Pin=U5-4
+Added Pin To Net: NetName=VCC Pin=U5-5
+Added Pin To Net: NetName=VCC Pin=U5-6
+Added Pin To Net: NetName=USB Pin=U5-7
+Added Pin To Net: NetName=USB Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=3V3 Pin=U6-2
+Added Pin To Net: NetName=VCC Pin=U6-3
+Added Pin To Net: NetName=USB Pin=USBMicroB1-1
+Added Pin To Net: NetName=NetR4_2 Pin=USBMicroB1-2
+Added Pin To Net: NetName=NetR6_2 Pin=USBMicroB1-3
+Added Pin To Net: NetName=GND Pin=USBMicroB1-5
+Added Pin To Net: NetName=NetC15_1 Pin=X1-1
+Added Pin To Net: NetName=NetC14_1 Pin=X1-2
+Added Pin To Net: NetName=NetC12_2 Pin=X2-1
+Added Pin To Net: NetName=NetC13_2 Pin=X2-2
+Added Member To Class: ClassName=MainBoard Member=Component Battery1 PowerPins
+Added Member To Class: ClassName=MainBoard Member=Component C3 Electrolytic Capacitor
+Added Member To Class: ClassName=MainBoard Member=Component C4 Electrolytic Capacitor
+Added Member To Class: ClassName=MainBoard Member=Component LED1 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED2 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED3 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED4 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED5 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED6 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED7 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED8 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED9 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED10 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED11 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED12 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED13 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED14 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED15 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component LED16 LED_Green_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R1 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R2 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R3 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R4 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R5 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R6 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R7 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R8 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R9 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R10 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R11 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R12 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R13 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R14 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R15 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R16 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R17 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R18 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R19 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component R20 Resistor_1206Package
+Added Member To Class: ClassName=MainBoard Member=Component SW1 PushButton
+Added Member To Class: ClassName=MainBoard Member=Component U2 nRF24L01+
+Added Member To Class: ClassName=MainBoard Member=Component U3 8BitShiftReg
+Added Member To Class: ClassName=MainBoard Member=Component U4 8BitShiftReg
+Added Member To Class: ClassName=MainBoard Member=Component U5 DualNP-ChFET
+Added Member To Class: ClassName=MainBoard Member=Component U6 LD1117DT33TR
+Added Member To Class: ClassName=MainBoard Member=Component USBMicroB1 Micro USB Receptacle Type B
+Added Member To Class: ClassName=MainBoard Member=Component X1 HC-49S
+Added Member To Class: ClassName=MainBoard Member=Component X2 HC-49S
