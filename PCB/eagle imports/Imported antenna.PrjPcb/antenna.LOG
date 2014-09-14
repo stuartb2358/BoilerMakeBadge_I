@@ -1,0 +1,13 @@
+Importer Log Report
+Project : antenna.PrjPcb
+
+Section : Analyze Document - C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\eagle imports\antenna.lbr
+    Analyzing data of C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\eagle imports\antenna.lbr
+    Load settings
+    Load layers 45
+    Load Library library
+    Load Library ""
+    Load Packages 9
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection

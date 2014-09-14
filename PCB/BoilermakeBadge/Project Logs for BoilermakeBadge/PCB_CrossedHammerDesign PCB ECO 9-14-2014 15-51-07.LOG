@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=MainBoard Member=E1
+Change Component Designator: OldDesignator=USB NewDesignator=USBMicroB1
+Added Pin To Net: NetName=FEEDER Pin=R20-2
+Added Net: Name=FEEDER
