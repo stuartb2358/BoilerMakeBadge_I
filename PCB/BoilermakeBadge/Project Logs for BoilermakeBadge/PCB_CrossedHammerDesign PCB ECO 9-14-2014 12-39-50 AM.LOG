@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=USB NewDesignator=USBMicroB1
+Added Component: Designator=R21(1206Package_PCB)
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=U2-16
+Added Net: Name=NetR21_1
+Added Member To Class: ClassName=MainBoard Member=Component R21 Resistor_1206Package
