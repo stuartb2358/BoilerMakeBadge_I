@@ -1,0 +1,7 @@
+Added Component: Designator=*(INV_F_PCB_ANTENNA)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=FEEDER Pin=*-3
+Change Net Name : Old Net Name=FEEDER New Net Name=Net*_3
+Added Member To Class: ClassName=MainBoard Member=Component * INV_V_ANTENNA
+Added Member To Class: ClassName=MainBoard Member=Component USBMicroB1 Micro USB Receptacle Type B

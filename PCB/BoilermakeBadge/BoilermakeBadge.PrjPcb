@@ -580,6 +580,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUGTOLEM
 
+[Document33]
+DocumentPath=Inverted_F_antenna.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RAPOBEEL
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BoilermakeBadge\MainBoard.BOM
 DItemRevisionGUID=

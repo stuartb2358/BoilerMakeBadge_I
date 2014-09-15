@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=*-1
+Removed Pin From Net: NetName=GND Pin=*-2
+Removed Pin From Net: NetName=Net*_3 Pin=*-3
+Removed Member From Class: ClassName=MainBoard Member=*
+Added Component: Designator=ANT1(INV_F_PCB_ANTENNA)
+Added Pin To Net: NetName=GND Pin=ANT1-1
+Added Pin To Net: NetName=GND Pin=ANT1-2
+Added Pin To Net: NetName=Net*_3 Pin=ANT1-3
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetANT1_3
+Added Member To Class: ClassName=MainBoard Member=Component ANT1 INV_F_ANTENNA
