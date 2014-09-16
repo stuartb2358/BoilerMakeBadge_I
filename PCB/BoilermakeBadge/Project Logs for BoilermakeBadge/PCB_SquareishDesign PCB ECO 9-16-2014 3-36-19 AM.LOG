@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PD5 Pin=U2-1
+Added Pin To Net: NetName=SS Pin=U2-2
+Added Pin To Net: NetName=SCK Pin=U2-3
+Added Pin To Net: NetName=MOSI Pin=U2-4
+Added Pin To Net: NetName=MISO Pin=U2-5
+Added Pin To Net: NetName=PB7 Pin=U2-6

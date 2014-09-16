@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SCK Pin=P1-2
+Removed Pin From Net: NetName=SCK Pin=P3-12
+Removed Pin From Net: NetName=SCK Pin=U1-9
+Removed Pin From Net: NetName=SCK Pin=U3-11
+Removed Pin From Net: NetName=SS Pin=U4-11
+Removed Pin From Net: NetName=PD0 Pin=U4-12
+Removed Pin From Net: NetName=MOSI Pin=U4-13
+Added Pin To Net: NetName=SS Pin=U4-12
+Added Pin To Net: NetName=PD0 Pin=U4-13
+Change Net Name : Old Net Name=SCK New Net Name=VCC
+Added Pin To Net: NetName=SCK Pin=P1-2
+Added Pin To Net: NetName=SCK Pin=P3-12
+Added Pin To Net: NetName=SCK Pin=U1-9
+Added Pin To Net: NetName=SCK Pin=U3-11
+Added Pin To Net: NetName=SCK Pin=U4-11
+Added Net: Name=SCK
