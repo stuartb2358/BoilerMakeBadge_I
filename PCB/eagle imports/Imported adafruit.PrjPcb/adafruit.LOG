@@ -1,0 +1,13 @@
+Importer Log Report
+Project : adafruit.PrjPcb
+
+Section : Analyze Document - C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\eagle imports\adafruit.lbr
+    Analyzing data of C:\Users\Thomas\Documents\repos\BoilerMakeBadge_I\PCB\eagle imports\adafruit.lbr
+    Load settings
+    Load layers 126
+    Load Library library
+    Load Library ""
+    Load Packages 630
+    Load Symbols 199
+    Load DeviceSets 194
+EndSection
