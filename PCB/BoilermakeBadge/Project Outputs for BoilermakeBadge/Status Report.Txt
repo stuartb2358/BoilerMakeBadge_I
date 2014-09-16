@@ -1,11 +1,31 @@
-Output: Simple BOM
-Type  : SimpleBOM
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [BoilermakeBadge.PrjPcb]
-   Generated File[MainBoard.BOM]
-   Generated File[MainBoard.CSV]
+   Generated File[PCB_SquareishDesign.GTL]
+   Generated File[PCB_SquareishDesign.GBL]
+   Generated File[PCB_SquareishDesign.GPB]
+   Generated File[PCB_SquareishDesign.GPT]
+   Generated File[PCB_SquareishDesign.GTO]
+   Generated File[PCB_SquareishDesign.GTP]
+   Generated File[PCB_SquareishDesign.GTS]
+   Generated File[PCB_SquareishDesign.GBS]
+   Generated File[PCB_SquareishDesign.GBP]
+   Generated File[PCB_SquareishDesign.GBO]
+   Generated File[PCB_SquareishDesign.GKO]
+   Generated File[PCB_SquareishDesign.GM1]
+   Generated File[PCB_SquareishDesign.GM8]
+   Generated File[PCB_SquareishDesign.GM13]
+   Generated File[PCB_SquareishDesign.GM15]
+   Generated File[PCB_SquareishDesign.GML]
+   Generated File[PCB_SquareishDesign.1]
+   Generated File[PCB_SquareishDesign.GD1]
+   Generated File[PCB_SquareishDesign.GG1]
+   Generated File[PCB_SquareishDesign.RUL]
+   Generated File[PCB_SquareishDesign.EXTREP]
+   Generated File[PCB_SquareishDesign.REP]
 
 
-Files Generated   : 2
+Files Generated   : 22
 Documents Printed : 0
 
-Finished Output Generation At 20:21:26 On 9/11/2014
+Finished Output Generation At 14:36:17 On 9/16/2014
