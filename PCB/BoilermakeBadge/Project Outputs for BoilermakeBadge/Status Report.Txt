@@ -1,31 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [BoilermakeBadge.PrjPcb]
-   Generated File[PCB_SquareishDesign.GTL]
-   Generated File[PCB_SquareishDesign.GBL]
-   Generated File[PCB_SquareishDesign.GPB]
-   Generated File[PCB_SquareishDesign.GPT]
-   Generated File[PCB_SquareishDesign.GTO]
-   Generated File[PCB_SquareishDesign.GTP]
-   Generated File[PCB_SquareishDesign.GTS]
-   Generated File[PCB_SquareishDesign.GBS]
-   Generated File[PCB_SquareishDesign.GBP]
-   Generated File[PCB_SquareishDesign.GBO]
-   Generated File[PCB_SquareishDesign.GKO]
-   Generated File[PCB_SquareishDesign.GM1]
-   Generated File[PCB_SquareishDesign.GM8]
-   Generated File[PCB_SquareishDesign.GM13]
-   Generated File[PCB_SquareishDesign.GM15]
-   Generated File[PCB_SquareishDesign.GML]
-   Generated File[PCB_SquareishDesign.1]
-   Generated File[PCB_SquareishDesign.GD1]
-   Generated File[PCB_SquareishDesign.GG1]
-   Generated File[PCB_SquareishDesign.RUL]
-   Generated File[PCB_SquareishDesign.EXTREP]
-   Generated File[PCB_SquareishDesign.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BoilermakeBadge.PrjPcb]
+   Generated File[PCB_SquareishDesign-RoundHoles.TXT]
+   Generated File[PCB_SquareishDesign-SlotHoles.TXT]
+   Generated File[PCB_SquareishDesign.LDP]
+   Generated File[PCB_SquareishDesign.DRR]
 
 
-Files Generated   : 22
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 14:36:17 On 9/16/2014
+Finished Output Generation At 3:14:05 PM On 9/18/2014
