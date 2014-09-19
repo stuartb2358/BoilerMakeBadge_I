@@ -632,7 +632,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JWWPKNTR
 
 [Document36]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -649,7 +649,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document37]
-DocumentPath=CAMtastic2.Cam
+DocumentPath=CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
