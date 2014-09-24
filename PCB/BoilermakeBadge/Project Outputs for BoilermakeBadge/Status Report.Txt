@@ -1,13 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [BoilermakeBadge.PrjPcb]
-   Generated File[PCB_SquareishDesign-RoundHoles.TXT]
-   Generated File[PCB_SquareishDesign-SlotHoles.TXT]
-   Generated File[PCB_SquareishDesign.LDP]
-   Generated File[PCB_SquareishDesign.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [BoilermakeBadge.PrjPcb]
+   Generated File[Pick Place for PCB_SquareishDesign.txt]
 
 
-Files Generated   : 4
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:57:15 AM On 9/19/2014
+Finished Output Generation At 10:12:44 AM On 9/24/2014

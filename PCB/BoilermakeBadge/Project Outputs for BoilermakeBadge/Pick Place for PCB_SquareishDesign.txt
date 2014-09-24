@@ -1,0 +1,78 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Designator FID_MARKER            -497mil         30mil       -495mil         30mil       -497mil         30mil  T          0.00 Comment        
+Designator FID_MARKER            2248mil      -1830mil       2250mil      -1830mil       2248mil      -1830mil  T          0.00 Comment        
+Designator FID_MARKER           -2257mil      -1830mil      -2255mil      -1830mil      -2257mil      -1830mil  T          0.00 Comment        
+Designator FID_MARKER           -2257mil       1865mil      -2255mil       1865mil      -2257mil       1865mil  T          0.00 Comment        
+ANT1       INV_F_PCB_ANTENNA   -1575.81mil    2047.22mil  -1855.259mil   2055.093mil  -1638.724mil   2047.219mil  T        360.00 INV_F_ANTENNA  
+USB        USBMicroB_PCB      2052.29mil   -2047.29mil       2085mil      -2080mil   1974.563mil  -2041.945mil  T         45.00 Micro USB Receptacle Type B
+X2         HC-49S            -462.625mil   1140.917mil   -627.487mil   1140.917mil   -627.487mil   1140.917mil  T        360.00 HC-49S         
+X1         HC-49S             443.425mil   -436.575mil        560mil       -320mil        560mil       -320mil  T        225.00 HC-49S         
+U6         DPAK                70.965mil    1196.82mil    -59.941mil   1287.371mil    -59.941mil   1287.371mil  T        270.00 LD1117DT33TR   
+U5         8-SOIC            1660.362mil      -1738mil       1558mil      -1813mil       1558mil      -1663mil  T        360.00 DualNP-ChFET   
+U4         16-SOIC                335mil  -1339.055mil        510mil  -1236.693mil        510mil  -1236.693mil  T        270.00 8BitShiftReg   
+U3         16-SOIC               -641mil  -1191.362mil       -466mil      -1089mil       -466mil      -1089mil  T        270.00 8BitShiftReg   
+U2         20-VFQFN           -467.08mil   1524.723mil   -506.449mil   1445.983mil    -545.82mil   1564.093mil  T        360.00 nRF24L01+      
+SW1        TactileSwitchPCB       1135mil       -915mil       1135mil       -915mil   1046.418mil  -1071.496mil  T         90.00 PushButton     
+R20        1206Package_PCB      -1175mil       1980mil      -1175mil       1980mil  -1106.102mil       1980mil  T        180.00 Resistor_1206Package
+R19        1206Package_PCB          0mil       -980mil          0mil       -980mil          0mil  -1048.898mil  T         90.00 Resistor_1206Package
+R18        1206Package_PCB         95mil       -980mil         95mil       -980mil         95mil  -1048.898mil  T         90.00 Resistor_1206Package
+R17        1206Package_PCB        190mil       -980mil        190mil       -980mil        190mil  -1048.898mil  T         90.00 Resistor_1206Package
+R16        1206Package_PCB        285mil       -980mil        285mil       -980mil        285mil  -1048.898mil  T         90.00 Resistor_1206Package
+R15        1206Package_PCB        380mil       -980mil        380mil       -980mil        380mil  -1048.898mil  T         90.00 Resistor_1206Package
+R14        1206Package_PCB        475mil       -980mil        475mil       -980mil        475mil  -1048.898mil  T         90.00 Resistor_1206Package
+R13        1206Package_PCB        570mil       -980mil        570mil       -980mil        570mil  -1048.898mil  T         90.00 Resistor_1206Package
+R12        1206Package_PCB        665mil       -980mil        665mil       -980mil        665mil  -1048.898mil  T         90.00 Resistor_1206Package
+R11        1206Package_PCB       -981mil       -854mil       -981mil       -854mil       -981mil   -922.898mil  T         90.00 Resistor_1206Package
+R10        1206Package_PCB   -883.857mil       -854mil   -883.857mil       -854mil   -883.857mil   -922.898mil  T         90.00 Resistor_1206Package
+R9         1206Package_PCB   -786.714mil       -854mil   -786.714mil       -854mil   -786.714mil   -922.898mil  T         90.00 Resistor_1206Package
+R8         1206Package_PCB   -689.572mil       -854mil   -689.572mil       -854mil   -689.572mil   -922.898mil  T         90.00 Resistor_1206Package
+R7         1206Package_PCB   -592.429mil       -854mil   -592.429mil       -854mil   -592.429mil   -922.898mil  T         90.00 Resistor_1206Package
+R6         1206Package_PCB       2141mil      -1395mil       2141mil      -1395mil       2141mil  -1326.102mil  T        270.00 Resistor_1206Package
+R5         1206Package_PCB   -495.286mil       -854mil   -495.286mil       -854mil   -495.286mil   -922.898mil  T         90.00 Resistor_1206Package
+R4         1206Package_PCB       2013mil      -1395mil       2013mil      -1395mil       2013mil  -1326.102mil  T        270.00 Resistor_1206Package
+R3         1206Package_PCB   -398.143mil       -854mil   -398.143mil       -854mil   -398.143mil   -922.898mil  T         90.00 Resistor_1206Package
+R2         1206Package_PCB       1885mil      -1395mil       1885mil      -1395mil       1885mil  -1326.102mil  T        270.00 Resistor_1206Package
+R1         1206Package_PCB       -301mil       -854mil       -301mil       -854mil       -301mil   -922.898mil  T         90.00 Resistor_1206Package
+LED16      1206Package_PCB     688.83mil  -1662.983mil     688.83mil  -1662.983mil    715.197mil  -1726.637mil  T        112.50 LED_Green_1206Package
+LED15      1206Package_PCB   1272.792mil  -1272.792mil   1272.792mil  -1272.792mil   1321.511mil   -1321.51mil  T        135.00 LED_Green_1206Package
+LED14      1206Package_PCB   1662.983mil    -688.83mil   1662.983mil    -688.83mil   1726.637mil   -715.196mil  T        157.50 LED_Green_1206Package
+LED13      1206Package_PCB       1800mil          0mil       1800mil          0mil   1868.898mil          0mil  T        180.00 LED_Green_1206Package
+LED12      1206Package_PCB   1662.983mil     688.83mil   1662.983mil     688.83mil   1726.637mil    715.196mil  T        202.50 LED_Green_1206Package
+LED11      1206Package_PCB   1272.792mil   1272.792mil   1272.792mil   1272.792mil    1321.51mil   1321.511mil  T        225.00 LED_Green_1206Package
+LED10      1206Package_PCB     688.83mil   1662.983mil     688.83mil   1662.983mil    715.196mil   1726.637mil  T        247.50 LED_Green_1206Package
+LED9       1206Package_PCB          0mil       1800mil          0mil       1800mil          0mil   1868.898mil  T        270.00 LED_Green_1206Package
+LED8       1206Package_PCB    -688.83mil   1662.983mil    -688.83mil   1662.983mil   -715.197mil   1726.637mil  T        292.50 LED_Green_1206Package
+LED7       1206Package_PCB  -1272.792mil   1272.792mil  -1272.792mil   1272.792mil   -1321.51mil   1321.511mil  T        315.00 LED_Green_1206Package
+LED6       1206Package_PCB  -1662.983mil     688.83mil  -1662.983mil     688.83mil  -1726.637mil    715.197mil  T        337.50 LED_Green_1206Package
+LED5       1206Package_PCB      -1800mil          0mil      -1800mil          0mil  -1868.898mil          0mil  T        360.00 LED_Green_1206Package
+LED4       1206Package_PCB  -1662.983mil    -688.83mil  -1662.983mil    -688.83mil  -1726.637mil   -715.196mil  T         22.50 LED_Green_1206Package
+LED3       1206Package_PCB  -1272.792mil  -1272.792mil  -1272.792mil  -1272.792mil   -1321.51mil   -1321.51mil  T         45.00 LED_Green_1206Package
+LED2       1206Package_PCB    -688.83mil  -1662.983mil    -688.83mil  -1662.983mil   -715.196mil  -1726.637mil  T         67.50 LED_Green_1206Package
+LED1       1206Package_PCB          0mil      -1800mil          0mil      -1800mil          0mil  -1868.898mil  T         90.00 LED_Green_1206Package
+C4         sheityCapPackage       1403mil  -2053.787mil       1403mil      -2103mil       1403mil  -2117.764mil  T        360.00 Electrolytic Capacitor
+C3         sheityCapPackage       1213mil  -2053.787mil       1213mil      -2103mil       1213mil  -2117.764mil  T        360.00 Electrolytic Capacitor
+Battery    PowerPins_PCB         2080mil      -1675mil       2080mil      -1675mil       1980mil      -1675mil  T        360.00 PowerPins      
+U1         44ML_N                   0mil      0.001mil          0mil          0mil   -268.644mil    -45.934mil  T         45.00 ATmega32U4-AU  
+P4         MMCX2.54-V5           -285mil       1840mil       -285mil       1840mil       -285mil       1840mil  T        360.00 COAX-M         
+P3         HDR1X16               1400mil        -10mil       1400mil        740mil       1400mil        740mil  T        270.00 Header 16      
+P2         HDR1X15              -1400mil         40mil      -1400mil       -660mil      -1400mil       -660mil  T         90.00 Header 15      
+P1         HDR2X3_CEN             715mil       1250mil        615mil       1200mil        615mil       1200mil  T        360.00 Header 3X2A    
+L3         0402-A             -216.45mil   1465.982mil    -216.45mil   1465.983mil    -216.45mil   1485.667mil  T        270.00 Inductor       
+L2         0402-A             -286.45mil   1510.982mil    -286.45mil   1510.983mil    -286.45mil   1530.667mil  T        270.00 Inductor       
+L1         0402-A                -285mil   1615.001mil       -285mil       1615mil       -285mil   1595.316mil  T         90.00 Inductor       
+C15        C1206                  670mil       -505mil        670mil       -505mil    632.417mil   -467.417mil  T        315.00 Cap Semi       
+C14        C1206                  510mil       -670mil        510mil       -670mil    472.417mil   -632.417mil  T        315.00 Cap Semi       
+C13        C1206              -291.98mil   1321.085mil   -291.981mil   1321.085mil    -238.83mil   1321.085mil  T        180.00 Cap Semi       
+C12        C1206             -483.129mil   1321.819mil   -483.129mil   1321.819mil   -429.979mil   1321.819mil  T        180.00 Cap Semi       
+C11        C1206                -1175mil       1885mil      -1175mil       1885mil   -1121.85mil       1885mil  T        180.00 Cap Semi       
+C10        0402                  -285mil   1709.999mil       -285mil       1710mil       -285mil   1729.684mil  T        270.00 Cap Semi       
+C9         0402               -336.45mil   1425.984mil    -336.45mil   1425.983mil    -336.45mil   1406.299mil  T         90.00 Cap Semi       
+C8         0402               -286.45mil   1425.984mil    -286.45mil   1425.983mil    -286.45mil   1406.299mil  T         90.00 Cap Semi       
+C7         C1206                 -500mil       -110mil       -500mil       -110mil    -446.85mil       -110mil  T        180.00 Cap Semi       
+C6         C1206              -63.129mil   1406.819mil    -63.129mil   1406.819mil   -116.279mil   1406.819mil  T        360.00 Cap Semi       
+C5         C1206                 -545mil       1730mil       -545mil       1730mil    -491.85mil       1730mil  T        180.00 Cap Semi       
+C2         C1206                 1603mil      -2023mil       1603mil      -2023mil    1549.85mil      -2023mil  T        360.00 Cap Semi       
+C1         C1206                 1603mil      -2133mil       1603mil      -2133mil    1549.85mil      -2133mil  T        360.00 Cap Semi       
+R21        1206Package_PCB       -415mil       1790mil       -415mil       1790mil       -415mil   1721.102mil  T         90.00 Resistor_1206Package
+
