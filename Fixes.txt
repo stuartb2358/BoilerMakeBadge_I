@@ -1,0 +1,12 @@
+Silicon Erata
+
+-Cut trace from ATmega-PD5 to nRF-CE. Reason: Thomas is a noob.
+-Fly-wire from ATmega-PB5 to nRF-CE. Reason: Thomas is a noob.
+-Cut trace from ATmega-SS to nRF-CSN. Reason: Thomas is a noob.
+-Fly-wire from ATmega-PB6 to nRF-CSN. Reason: Thomas is a noob.
+-Fix microUSB footprint to use cutout or via instead of plated splot (manufacturer cannot do plated slots).
+-Swap 8-bit shift registers with higher current sinking/sourcing chip (min 20mA per pin, 160mA per chip).
+-Replace SMA footprint to accomodate larger connector.
+-Replace R2 10k resistor digikey part with correctly padded part.
+-elongate shift register pads
+-remove pads not-under the silkscreen on antenna
